@@ -1,0 +1,43 @@
+$
+osobny automobil
+Ferrari
+Autobazar Pestovatelska 4 Bratislava
+68957
+2012
+udrziavane cervene dvojdverove
+$
+kamion
+Renault magnum
+AUTO Modranska 5 Senec
+28000
+2016
+po havarii opraveny v dobrom stave
+$
+prepravka 
+bugatti
+AUTOOO Modranska 5 Senec
+1337
+2017
+vo vybornom stave
+$
+vozik
+bugatti
+AUTOOO Modranska 5 Senec
+10000
+2016
+vo vynikajucom stave 
+$
+bicykel
+Author
+AUTOOO Ruzinov
+1337
+2017
+vo vybornom stave
+$
+kamion
+Renault magnum
+AUTO Modranska 5 Senec
+28000
+2016
+xsxsxsxxsxs
+
